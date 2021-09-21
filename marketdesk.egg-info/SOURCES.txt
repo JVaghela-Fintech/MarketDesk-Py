@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+marketdesk/__init__.py
+marketdesk/marketdesk.py
+marketdesk.egg-info/PKG-INFO
+marketdesk.egg-info/SOURCES.txt
+marketdesk.egg-info/dependency_links.txt
+marketdesk.egg-info/requires.txt
+marketdesk.egg-info/top_level.txt
